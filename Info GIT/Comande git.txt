@@ -1,3 +1,0 @@
-Git : 
-
-Verifier connexion au dépot distant : git remote -v
